@@ -249,5 +249,14 @@
         "It's a stormy night, don't be scared"
     ],
     "night_alt_cloudy_windy" : [
-    ]    
+    ],
+	"2021-01-01": [
+		"Happy new year!"
+	],
+	"2020-10-31": [
+		"Happy Halloween!"
+	],
+	"2020-10-02": [
+		"Hello Jason. It's Friday!"
+	]
 }
