@@ -1,0 +1,12 @@
+{
+                        morning: [
+                        "Good morning, sunshine!"
+                                        ],
+                        afternoon: [
+                        "It's a pretty day outside. Go play in it!"
+                                        ],
+                        evening: [
+                                "Wasn't the sunset beautiful?",
+                                "Wasn't the day just spectacular?"
+                                ]
+                        }
